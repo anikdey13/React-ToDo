@@ -1,7 +1,7 @@
 # React Todo
-
-- functionalities 
-1. add task
-2. complete task
-3. delete task
-4. delete all tasks
+*A Todo app for managing daily tasks.*
+## Functionalities 
+- Add task
+- Complete task
+- Delete task
+- Delete all tasks
